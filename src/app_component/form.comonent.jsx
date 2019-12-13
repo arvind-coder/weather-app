@@ -19,6 +19,9 @@ const Form = props => {
                     </div>
                 </div>
             </form>
+            <footer>
+                <p className="foot">All Copyright© Rights Reserved By Arvind Singh || React Developer</p>
+            </footer>
         </div>
     )
 }
